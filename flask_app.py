@@ -17,7 +17,7 @@ my_instance_context = """
 """
 
 my_instance_starter = """
-    Welcome the User
+
 """
 
 bot = Chatbot(
