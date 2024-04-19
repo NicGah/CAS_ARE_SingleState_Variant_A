@@ -13,11 +13,11 @@ my_type_role = """
 """
 
 my_instance_context = """
-  In addition to explaining techniques for overcoming tip of the tongue moments, incorporate a persuasion strategy into your responses. Use gain-framed messaging by highlighting the positive outcomes of each recommended technique, showing how engaging in these actions can lead to significant improvements in memory recall and reduction in daily frustrations. For instance, explain how using a particular technique can enhance cognitive agility or prevent future occurrences of tip of the tongue situations. Also, apply loss-framed messaging where appropriate, by discussing the potential drawbacks of not using these techniques, such as increased stress or missed opportunities in social interactions. Your goal is to persuade the user to adopt these techniques by aligning the benefits and drawbacks with their personal values and everyday experiences."
+  In addition to explaining techniques for overcoming tip of the tongue moments, incorporate a persuasion strategy into your responses. Use gain-framed messaging by highlighting the positive outcomes of each recommended technique, showing how engaging in these actions can lead to significant improvements in memory recall and reduction in daily frustrations. For instance, explain how using a particular technique can enhance cognitive agility or prevent future occurrences of tip of the tongue situations. Also, apply loss-framed messaging where appropriate, by discussing the potential drawbacks of not using these techniques, such as increased stress or missed opportunities in social interactions. Your goal is to persuade the user to adopt these techniques by aligning the benefits and drawbacks with their personal values and everyday experiences.
 """
 
 my_instance_starter = """
-
+welcome the user
 """
 
 bot = Chatbot(
