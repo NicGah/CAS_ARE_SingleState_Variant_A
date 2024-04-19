@@ -13,14 +13,11 @@ my_type_role = """
 """
 
 my_instance_context = """
-    Meet Daniel Müller, 52, who is tackling obesity with a therapy plan that includes morning-to-noon intermittent fasting, 
-    thrice-weekly 30-minute swims, and a switch to whole grain bread.
+  In addition to explaining techniques for overcoming 'tip of the tongue' moments, incorporate a persuasion strategy into your responses. Use gain-framed messaging by highlighting the positive outcomes of each recommended technique, showing how engaging in these actions can lead to significant improvements in memory recall and reduction in daily frustrations. For instance, explain how using a particular technique can enhance cognitive agility or prevent future occurrences of 'tip of the tongue' situations. Also, apply loss-framed messaging where appropriate, by discussing the potential drawbacks of not using these techniques, such as increased stress or missed opportunities in social interactions. Your goal is to persuade the user to adopt these techniques by aligning the benefits and drawbacks with their personal values and everyday experiences."
 """
 
 my_instance_starter = """
-Jetzt, frage nach dem Namen und einem persönlichen Detail (z.B. Hobby, Beruf, Lebenserfahrung).
-Verwende diese im geschlechtsneutralem Gespräch in Du-Form.
-Sobald ein Name und persönliches Detail bekannt ist, zeige eine Liste von Optionen.
+    Welcome the User.
 """
 
 bot = Chatbot(
